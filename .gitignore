@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local downloads of source documents
+data/raw/downloads/
